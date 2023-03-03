@@ -2,5 +2,11 @@
     "name" : "Legrain",
     "first_name" : "Samuel",
     "birth_date" : "1987-09-27",
-    "email" : "samuel.legrain@bstorm.be"
+    "email" : "samuel.legrain@bstorm.be",
+    "hobbies" : [
+        "VideoGames",
+        "BoardGames",
+        "Cinema",
+        "Comics"
+    ]
 }
